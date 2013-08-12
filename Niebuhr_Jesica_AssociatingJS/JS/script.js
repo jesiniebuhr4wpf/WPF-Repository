@@ -1,1 +1,1 @@
-alert("This is in the js file");
+alert("Welcome to the Assignment AssociatingJS");
