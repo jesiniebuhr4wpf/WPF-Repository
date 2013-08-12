@@ -10,4 +10,7 @@ console.log(yearBorn);
 alert(yearBorn);
 */
 
+/*Declaring Variables*/
+
+var age;
 
