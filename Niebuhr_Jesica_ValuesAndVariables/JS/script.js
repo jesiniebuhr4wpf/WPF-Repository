@@ -62,14 +62,13 @@ var phrase = 'I don\'t know \n You\'ll have to with the Professor.'
     index number must be present for
     can redefine index number by redefining variable value
     use array notation to access index
+*/
 
 var muppetNames = ["Kermit", "Miss Piggy"];
 
 muppetNames[1] = "Rizzo"
 muppetNames[2] = "Fozzy"
 console.log(muppetNames[1]);
-*/
-
 
 
 
