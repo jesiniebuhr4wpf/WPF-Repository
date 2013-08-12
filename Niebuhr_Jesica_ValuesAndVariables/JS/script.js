@@ -57,12 +57,15 @@ var phrase = 'I don\'t know \n You\'ll have to with the Professor.'
 /*Arrays
     hold collections of values
     you can mix up between variable definitions, values, etc. but generally keep same
-    arrays assign numbers to values - Kermit=0, Miss Piggy=1, etc.
+    arrays assign index numbers to values - Kermit=0, Miss Piggy=1, etc.
+    to set up array index quotation see second line
+    index number must be present for
  */
 
-var muppetNames = ["Kermit", "Miss Piggy", "Gonzo", "Rizzo"];
+var muppetNames = ["Kermit", "Miss Piggy"];
 
-console.log(muppetNames[0]);
+muppetNames[1] = "Rizzo"
+console.log(muppetNames[1]);
 
 
 
