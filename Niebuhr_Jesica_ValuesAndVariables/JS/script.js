@@ -5,6 +5,8 @@ var yearBorn = 1987
 /*
 console.log("Hello World!");
 console.log(yearBorn);
+
+  end every statement in javascript with a semicolon
   */
 /*
 alert(yearBorn);
@@ -20,5 +22,19 @@ alert(yearBorn);
 * begin with lower case letters (every word after should begin capitalized)
 * */
 
+/*Defining Variables
+*   giving variables a value
+*   declaring variable is making box, defining is storing something inside
+*   storage container = value
+*   you can declare and define on the same line
+*   must declare before you use the variable
+*
+* */
+
+
 var age;
+age = 25;
+
+var yearOfBirth = 1987;
+
 
