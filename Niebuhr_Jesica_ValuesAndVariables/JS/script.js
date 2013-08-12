@@ -56,9 +56,15 @@ var phrase = 'I don\'t know \n You\'ll have to with the Professor.'
 
 /*Arrays
     hold collections of values
+    you can mix up between variable definitions, values, etc. but generally keep same
+    arrays assign numbers to values - Kermit=0, Miss Piggy=1, etc.
  */
 
 var muppetNames = ["Kermit", "Miss Piggy", "Gonzo", "Rizzo"];
+
+console.log(muppetNames[0]);
+
+
 
 
 
