@@ -28,13 +28,12 @@ alert(yearBorn);
 *   storage container = value
 *   you can declare and define on the same line
 *   must declare before you use the variable
-*
-* */
-
-
+*   be careful about spacing and lining up of code, don't break apart keywords and variable names
 var age;
 age = 25;
 
 var yearOfBirth = 1987;
+*/
+
 
 
