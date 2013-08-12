@@ -35,5 +35,25 @@ age = 25;
 var yearOfBirth = 1987;
 */
 
+/*String and Booleans
+*   booleans are simplest of values they equal true or false
+ *  js needs quotes to know the beginning and end of strings
+ *  use quotations to contain the string
+ *  use double quotations around strings, this way when quote is
+ *      needed machine doesn't get confused.
+ *  or use \ befor quotation if you choose to use single quotations
+ *  use the code \n to create a line break within phrases
+var age = 25;
+
+var isStudent = true;
+
+var firstName = "Jesi";
+
+var phrase = "I don't know";
+
+var phrase = 'I don\'t know \n You\'ll have to with the Professor.'
+*/
+
+
 
 
