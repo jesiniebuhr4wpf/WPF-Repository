@@ -60,13 +60,15 @@ var phrase = 'I don\'t know \n You\'ll have to with the Professor.'
     arrays assign index numbers to values - Kermit=0, Miss Piggy=1, etc.
     to set up array index quotation see second line
     index number must be present for
- */
+    can redefine index number by redefining variable value
+    use array notation to access index
 
 var muppetNames = ["Kermit", "Miss Piggy"];
 
 muppetNames[1] = "Rizzo"
+muppetNames[2] = "Fozzy"
 console.log(muppetNames[1]);
-
+*/
 
 
 
