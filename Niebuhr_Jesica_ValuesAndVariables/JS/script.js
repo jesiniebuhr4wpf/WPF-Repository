@@ -54,6 +54,12 @@ var phrase = "I don't know";
 var phrase = 'I don\'t know \n You\'ll have to with the Professor.'
 */
 
+/*Arrays
+    hold collections of values
+ */
+
+var muppetNames = ["Kermit", "Miss Piggy", "Gonzo", "Rizzo"];
+
 
 
 
