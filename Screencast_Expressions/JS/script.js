@@ -58,11 +58,6 @@ var b = 7;
 var result = a + b;
 console.log(result);
 
-
-
-
-
-
 //Using Arrays in Expressions
 
 var orangeBins = [234, 567, 883];
@@ -70,6 +65,11 @@ var orangeBins = [234, 567, 883];
 var total = orangeBins[0] + orangeBins[1] + orangeBins[2];      //don't forget to use array access notation
 console.log(total);
 
+//Assignment Operators
+
+var a = 3;
+a = a + 4;
+console.log(a);
 
 
 
