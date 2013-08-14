@@ -43,6 +43,16 @@ var width = 6
 var perimeter = length * 2 + width * 2;
 console.log(perimeter);
 
+//Concatenating
+    //Combining Strings
+
+var firstName = "Jesica";
+var lastName = "Niebuhr";
+
+var fullName = firstName + lastName;
+console.log(fullName);
+
+
 
 
 //Using Arrays in Expressions
