@@ -35,7 +35,7 @@ var quiz4 = 80;
 
 //the average sum of the items divided by the number of items
 
-var average = quiz1 + quiz2 + quiz3 + quiz4;
+var average = (quiz1 + quiz2 + quiz3 + quiz4)/2;        //don't forget PEMDAS
 console.log(average);
 
 
