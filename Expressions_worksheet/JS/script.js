@@ -47,6 +47,9 @@ var sliPerPie = 8;
 var people = 13;
 var pizzas = 4;
 
+numberOfSlices = sliPerPie * pizzas/people;
+//Result to Print
+console.log("Each person ate" + " " + numberOfSlices + " " + "slices of pizza at the party.");
 
 
 
