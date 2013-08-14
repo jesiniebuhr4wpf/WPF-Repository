@@ -49,7 +49,7 @@ console.log(perimeter);
 var firstName = "Jesica";
 var lastName = "Niebuhr";
 
-var fullName = firstName + lastName;
+var fullName = firstName + " " + lastName;
 console.log(fullName);
 
 
