@@ -12,10 +12,19 @@ console.log(b);
 
 //finding the are of a triangle which is half of width times height
 
-var width = 8;
-var height = 7;
+var width = 4;
+var height = 5;
 var area = width * height/2;  //be sure to follow order of operations
 console.log(area);
+
+
+//Modulo Operator
+    //finding the remainder of a division
+
+var remainder = 32 % 10;     //using percent sign gives us the remainder when divisor goes into dividend
+            //even numbers will never have remainder when divided by 2, remainder will be 1
+console.log(remainder);
+
 
 
 
