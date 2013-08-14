@@ -44,7 +44,7 @@ console.log("Sparky is" + " " + age + " " + "human years old which is" + " " + d
     //number of slices (the result can be a decimal).
 //possible expression for number of slices each person ate - sliPerPie * pizzas/people
 var sliPerPie = 8;
-var people = 13;
+var people = 14;
 var pizzas = 4;
 
 numberOfSlices = sliPerPie * pizzas/people;
