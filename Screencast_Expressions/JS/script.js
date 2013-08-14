@@ -25,12 +25,27 @@ var remainder = 32 % 10;     //using percent sign gives us the remainder when di
             //even numbers will never have remainder when divided by 2, remainder will be 1
 console.log(remainder);
 
+
+//Order of Operations
+
+var quiz1 = 87;
+var quiz2 = 100;
+var quiz3 = 60;
+var quiz4 = 80;
+
+//the average sum of the items divided by the number of items
+
+var average = quiz1 + quiz2 + quiz3 + quiz4;
+console.log(average);
+
+
 //Using Arrays in Expressions
 
 var orangeBins = [234, 567, 883];
 
 var total = orangeBins[0] + orangeBins[1] + orangeBins[2];      //don't forget to use array access notation
 console.log(total);
+
 
 
 
