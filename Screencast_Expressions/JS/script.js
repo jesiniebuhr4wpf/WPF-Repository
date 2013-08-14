@@ -12,8 +12,8 @@ console.log(b);
 
 //finding the are of a triangle which is half of width times height
 
-var width = 4;
-var height = 5;
+var width = 8;
+var height = 7;
 var area = width * height/2;  //be sure to follow order of operations
 console.log(area);
 
