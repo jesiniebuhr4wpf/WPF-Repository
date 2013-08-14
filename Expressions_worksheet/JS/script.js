@@ -26,5 +26,7 @@
 
 var age = 7;
 var dogYears = (age * 2);
-console.log(dogYears);
+
+console.log("Sparky is" + age + "human years old which is" + dogYears + "in dog years.");
+
 
