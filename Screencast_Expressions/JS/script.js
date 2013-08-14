@@ -25,6 +25,14 @@ var remainder = 32 % 10;     //using percent sign gives us the remainder when di
             //even numbers will never have remainder when divided by 2, remainder will be 1
 console.log(remainder);
 
+//Using Arrays in Expressions
+
+var orangeBins = [234, 567, 883];
+
+var total = orangeBins[0];      //don't forget to use array access notation
+
+
+
 
 
 
